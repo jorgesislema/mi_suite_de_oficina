@@ -1,0 +1,10 @@
+customtkinter
+PyPDF2
+pandas
+openpyxl
+reportlab
+qrcode
+python-barcode
+pillow
+opencv-python
+pytesseract
